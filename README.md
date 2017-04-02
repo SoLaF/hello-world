@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+hi humans!
+solaf here,i like hack and go.
